@@ -13,6 +13,11 @@ class Menu extends Component {
               <li>Location Transition Handling</li>
             </ul>
           </p>
+          <br></br>
+        <br></br>
+        <br></br>
+        <br></br>
+        <br></br>
         </div>
       );
     }

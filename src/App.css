@@ -1,5 +1,14 @@
+body{
+  background-color: black;
+  font-family: 'Sedgwick Ave Display', cursive;
+}
+
 .App {
   text-align: center;
+  background-color: black;
+  font-family: 'Sedgwick Ave Display', cursive;
+  color: white;
+  
 }
 
 .App-logo {
@@ -7,25 +16,25 @@
   pointer-events: none;
 }
 
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.nav {
+  background-color: #2e3033;
   display: flex;
   flex-direction: column;
-  align-items: center;
+  align-items: left;
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
 }
 
 .App-link {
-  color: #61dafb;
+  color: #f4f9fa;
 }
 
 @keyframes App-logo-spin {
