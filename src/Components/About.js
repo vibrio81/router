@@ -5,9 +5,12 @@ class About extends Component {
       return(
         <div>
           <h1>About Us</h1>
-          <p>We here at the Triple-R love fresh URLs, especially ones tied to awesome React Components.</p>
-          <p>It's even better when you can switch between those URLs with ease and share them with friends and family</p>
+          <h3>We are here for all of your dessert needs.</h3>
+          <h3>Choose us for the best snacks when making those life or death decisions. </h3>
           <br></br>
+          <div>
+          <img alt="Pin by shaz on 動漫 in 2020 | Death note, Death note l, Death note fanart" src="https://i.pinimg.com/originals/2e/d6/d2/2ed6d2688d1e3daec7653822df2ac2a4.jpg"   width="385px" height= "356px" />
+          </div>
         <br></br>
         <br></br>
         <br></br>
