@@ -9,11 +9,11 @@ class About extends Component {
           <h3>Choose us for the best snacks when making those life or death decisions. </h3>
           <br></br>
           <div>
-          <img alt="Pin by shaz on 動漫 in 2020 | Death note, Death note l, Death note fanart" src="https://i.pinimg.com/originals/2e/d6/d2/2ed6d2688d1e3daec7653822df2ac2a4.jpg"   width="385px" height= "356px" />
+          <img alt="Pin by shaz on 動漫 in 2020 | Death note, Death note l, Death note fanart" src="https://i.pinimg.com/originals/2e/d6/d2/2ed6d2688d1e3daec7653822df2ac2a4.jpg"   width="485px" height= "456px" />
           </div>
         <br></br>
         <br></br>
-        <br></br>
+    
 
         </div>
       );
